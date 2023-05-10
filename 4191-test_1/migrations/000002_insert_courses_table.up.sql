@@ -1,0 +1,1 @@
+copy courses FROM '/home/lmatthews/courses.csv' WITH delimiter ',' CSV HEADER;
